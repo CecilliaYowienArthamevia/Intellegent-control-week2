@@ -1,0 +1,34 @@
+Nama  : Cecillia Yowien Arthamevia
+NIM   : 224308031
+Kelas : TKA-6B
+Week2
+
+Analisis Hasil 
+1. Bagaimana performa model dalam mendeteksi warna?
+Model Machine Learning (ML) dapat digunakan untuk identifikasi warna pada citra digital. Algoritma pembelajaran mendalam dapat digunakan untuk mengekstrak fitur warna dari gambar dan membuat model warna. Dimana terdapat poin pada ouput yang dihasilkan yaitu akurasi. Tingkat akurasi identifikasi warna bisa mencapai sekitar 86.8%, yang dipengaruhi oleh resolusi kamera, kualitas lensa, dan pencahayaan. Algoritma K-Nearest Neighbor (KNN) dapat digunakan dalam klasifikasi warna dengan tingkat akurasi yang tinggi, lebih dari 90%.
+
+2. Bagaimana perbedaan akurasi jika jumlah dataset ditambah?
+Penambahan jumlah dataset pada metode machine learning dapat meningkatkan tingkat akurasi model, dapat lebih baik dalam mengklasifikasi data dan dapat meningkatkan kemampuan dalam mendeteksi suatu objek.
+
+3. Bagaimana cara meningkatkan kinerja model klasifikasi?
+Untuk meningkatkan kinerja model klasifikasi dapat dilakukan dengan cara:
+a) Mengoptimasi model yang ingin digunakan.
+b) Meningkatkan kualitas data hingga dataset yang digunakan memiliki jumlah sample yang cukup.
+c) Memilih fitur yang lebih relevan dengan model yang ingin dibuat.
+
+
+Diskusi
+1. Apa keuntungan Machine Learning dibandingkan metode berbasis aturan (rule-based)?
+Machine Learning (ML) memiliki beberapa keuntungan dibandingkan metode berbasis aturan (rule-based)yang dapat dilihat dari:
+a) Identifikasi Pola dan Tren: ML dapat mengidentifikasi pola dan tren data yang mungkin terlewatkan oleh manusia. Teknologi ML juga digunakan untuk mengolah data berukuran besar, termasuk menemukan pola dan tren big data dalam waktu relatif singkat.
+b) Akurasi Meningkat Seiring Waktu: ML terus belajar berdasarkan data yang ada, sehingga akurasi hasil prediksi terus meningkat seiring banyaknya data yang dipelajari.
+c) Pengambilan Keputusan Otomatis: ML dapat digunakan untuk mengotomatisasi proses pengambilan keputusan, menghemat waktu dan sumber daya manusia.
+d) Kemampuan Generalisasi: Model ML hanya dapat memberikan hasil yang baik pada data yang serupa dengan data pelatihan.
+e) Tanpa Intervensi Manusia: Model ML dapat bekerja tanpa intervensi manusia setelah disiapkan. 
+f) Mendeteksi Anomali: Software pada ML dapat digunakan untuk menyortir data dengan kriteria poin data, pola data, dan juga anomali data-data yang bersifat penting.
+
+2. Bagaimana ML dapat diintegrasikan lebih lanjut dalam sistem kendali?
+Machine Learning (ML) dapat diintegrasikan lebih lanjut dalam sistem kendali untuk menciptakan sistem yang lebih cerdas dan adaptif. Misalnya, dalam robotika, ML dapat digunakan untuk mengenali objek dan menyesuaikan gerakan secara otomatis. Dalam sistem kendali industri, ML bisa menganalisis data sensor secara real-time untuk mengoptimalkan performa mesin, mengurangi konsumsi energi, dan mencegah kerusakan dengan deteksi dini. Selain itu, pada kendaraan otonom, ML memungkinkan sistem untuk mengenali rintangan, mengatur kecepatan, dan membuat keputusan berkendara yang lebih aman. Sehingga dengan terus belajar dari data, sistem kendali berbasis ML menjadi lebih akurat, efisien, dan mampu beradaptasi dengan perubahan lingkungan.
+ 
+3. Apa saja tantangan dalam penerapan ML dalam sistem real-time?
+Penerapan Machine Learning (ML) dalam sistem real-time menghadirkan sejumlah tantangan yang signifikan. Kualitas dan ketersediaan data menjadi krusial, karena model ML memerlukan data yang besar, berkualitas tinggi, dan terstruktur untuk menghasilkan prediksi akurat; data yang tidak lengkap atau bias dapat menghasilkan model yang tidak akurat13. Selain itu, pemilihan dan penyusunan algoritma yang tepat juga kompleks, mengingat berbagai jenis algoritma ML memiliki kelebihan dan kekurangan masing-masing6. Tantangan lainnya termasuk kebutuhan daya komputasi yang tinggi untuk melatih model, terutama yang kompleks seperti deep learning
